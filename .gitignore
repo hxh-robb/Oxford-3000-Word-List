@@ -1,4 +1,5 @@
 **/*.swp
 **/*.pyc
 mp3/
+tracking/
 wordlist.txt
