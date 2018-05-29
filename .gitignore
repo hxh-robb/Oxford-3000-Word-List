@@ -1,0 +1,4 @@
+**/*.swp
+**/*.pyc
+mp3/
+wordlist.txt
