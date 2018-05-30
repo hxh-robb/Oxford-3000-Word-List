@@ -141,7 +141,7 @@ def pick_words(num=10):
     with open(day_list,'w') as f:
       for x in new_list:
         #print(x.replace(', ','\n'), file=f)
-        print(x.replace(', ','\n'), file=f)
+        print(x, file=f)
   play_list(day_dirname,0)
 
 def play_list(day_dirname, interval=5):
