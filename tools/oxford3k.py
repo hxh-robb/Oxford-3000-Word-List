@@ -132,8 +132,11 @@ def pick_words(num=10):
   shu_list = file_path(shuffled_filename)
   day_list = file_path('list.txt', day_dir)
   with open(shu_list) as shu:
+    new_list = [ x for x in itertools.islice([ word.rstrip('\n') for word in shu ], count, count + num ) ]
+    if not new_list:
+      return
     with open(day_list,'w') as f:
-      for x in itertools.islice([ word.rstrip('\n') for word in shu ], count, count + num ):
+      for x in new_list:
         print(x, file=f)
   play_list(day_dirname,0)
 
