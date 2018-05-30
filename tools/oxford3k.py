@@ -2,12 +2,13 @@ from __future__ import print_function
 import os, random
 import re, urllib, hashlib, subprocess
 import itertools, time
+import grouping
 
 debug = True
 
 app_root = os.path.dirname(os.path.dirname(__file__))
 
-oxford3k_filename = 'Oxford 3000 Word List.txt'
+oxford3k_filename = 'Oxford 3000 Word List Grouped.txt'
 shuffled_filename = 'wordlist.txt'
 
 mp3_dirname = 'mp3'
@@ -16,6 +17,8 @@ mp3_us_download_link = 'https://text-to-speech-demo.ng.bluemix.net/api/synthesiz
 
 track_dirname = 'tracking'
 track_day_dirname = 'day{}'
+
+grouping.grouping()
 
 def file_path(filename,parent_dir=app_root):
   return '{}/{}'.format(parent_dir, filename)
@@ -71,7 +74,7 @@ def download(text, play_mp3=False):
   if os.path.exists(mp3_uk) and os.path.exists(mp3_us):
     if play_mp3:
       play(mp3_uk)
-      time.sleep(0.5)
+      time.sleep(1)
       play(mp3_us)
     return
 
@@ -81,17 +84,17 @@ def download(text, play_mp3=False):
     rt = subprocess.call(['wget', '-O' if debug else '-qO', mp3_uk, '-T', '5', uk_link])
     if 0 == rt:
       if play_mp3 : play(mp3_uk)
-      time.sleep(1)
     elif os.path.exists(mp3_uk):
       os.remove(mp3_uk)
+    time.sleep(1.5)
   if not os.path.exists(mp3_us):
     us_link = mp3_us_download_link.format(param)
     rt = subprocess.call(['wget', '-O' if debug else '-qO', mp3_us, '-T', '5', us_link])
     if 0 == rt:
       if play_mp3 : play(mp3_us)
-      time.sleep(1)
     elif os.path.exists(mp3_us):
       os.remove(mp3_us)
+    time.sleep(1.5)
 
 def list_tracking():
   track_dir = file_path(track_dirname)
@@ -137,7 +140,8 @@ def pick_words(num=10):
       return
     with open(day_list,'w') as f:
       for x in new_list:
-        print(x, file=f)
+        #print(x.replace(', ','\n'), file=f)
+        print(x.replace(', ','\n'), file=f)
   play_list(day_dirname,0)
 
 def play_list(day_dirname, interval=5):
