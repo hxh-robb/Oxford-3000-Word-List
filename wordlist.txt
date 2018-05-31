@@ -1,3 +1,57 @@
+go, go ahead, go away, go back, go back to, go by, go down, go into, go off, go on, go on doing, go out, go out with, go over, go round, go through, go through with, go to, go up, go with, go without
+get, get away, get away with, get back, get by, get in, get into, get off, get on, get on with, get out of, get over, get round, get round to, get through, get up
+look, look after, look at, look down on, look forward to, look into, look on, look on with, look out, look out for, look round, look through, look up, look up to
+put, put away, put back, put down, put forward, put in, put off, put on, put out, put through, put together, put up, put up with
+come, come across, come down, come from, come in, come off, come on, come out, come round, come to, come up, come up to
+turn, turn back, turn down, turn into, turn off, turn on, turn out, turn over, turn round, turn to, turn up
+pull, pull apart, pull down, pull in, pull off, pull out, pull over, pull through, pull together, pull up
+take, take away, take back, take down, take in, take off, take on, take over, take up
+hang, hang about, hang about with, hang around, hang around with, hang on, hang on to, hang up
+pass, pass away, pass by, passing, pass on, pass out, pass round, pass through
+break, break down, break in, break into, break off, break out, break up
+check, check in, check into, check on, check out, check over, check up on
+give, give away, give back, give in, give off, give out, give up
+hand, hand back, hand down, hand in, hand out, hand over, hand round
+run, run after, run away, running, run out, run over, run through
+stand, stand back, stand by, stand for, stand out, stand up, stand up for
+think, think about, thinking, think of, think of as, think over, think up
+bring, bring back, bring down, bring forward, bring out, bring up
+call, call back, called, call for, call off, call up
+cut, cut back, cut down, cut off, cut out, cut up
+hold, hold back, hold on, hold on to, hold out, hold up
+live, lively, live on, live through, live together, living
+wash, wash away, washing, wash off, wash out, wash up
+frighten, frightened, frightening, frighten away, frighten off
+keep, keep out, keep out of, keep up, keep up with
+move, move in, move out, move over, moving
+shut, shut down, shut in, shut out, shut up
+add, add on, add up, add up to
+breathe, breathe in, breathe out, breathing
+clear, clearly, clear out, clear up
+cover, covered, covering, cover up
+die, die away, die out, dying
+do, do up, do with, do without
+drive, drive away, drive off, driving
+end, end in, ending, end up
+fill, fill in, fill out, fill up
+have, have back, have on, have to
+hear, hear from, hearing, hear of
+make, make into, make up, make up for
+meet, meeting, meet up, meet with
+open, opening, openly, open up
+pay, pay back, pay out, pay up
+read, reading, read out, read over
+see, see about, seed, see to
+set, set off, set out, set up
+show, show off, show round, show up
+skill, skilled, skilful, skilfully
+start, start off, start out, start up
+stick, stick out, stick to, stick up
+the, thing, the unemployed, the unexpected
+tire, tired, tire out, tiring
+walk, walking, walk out, walk up
+wear, wear away, wear off, wear out
+write, write back, write down, writing
 sound
 entertainer
 permanent, permanently
@@ -6,7 +60,6 @@ shy
 horn
 vision
 virtually
-put, put away, put back, put down, put forward, put in, put off, put on, put out, put through, put together, put up, put up with
 smooth, smoothly
 luggage
 bandage
@@ -50,7 +103,6 @@ fever
 reserve
 insurance
 secret, secretly
-look, look after, look at, look down on, look forward to, look into, look on, look on with, look out, look out for, look round, look through, look up, look up to
 information
 victory
 tap
@@ -172,7 +224,6 @@ club
 pray
 minority
 rapid, rapidly
-wear, wear away, wear off, wear out
 ideal
 beauty
 excellent
@@ -289,7 +340,6 @@ hospital
 reform
 imagination
 against
-have, have back, have on, have to
 opposite
 spite
 piece
@@ -358,7 +408,6 @@ village
 excitement
 party
 sufficient, sufficiently
-start, start off, start out, start up
 length
 useful
 fuel
@@ -417,7 +466,6 @@ September
 security
 discuss
 passage
-fill, fill in, fill out, fill up
 prime minister
 correct, correctly
 thirsty
@@ -438,7 +486,6 @@ operate
 shadow
 eastern
 fashion
-open, opening, openly, open up
 fetch
 inside
 career
@@ -599,7 +646,6 @@ trend
 bottle
 concrete
 in
-add, add on, add up, add up to
 react
 challenge
 private, privately
@@ -609,7 +655,6 @@ studio
 doctor
 guide
 ugly
-get, get away, get away with, get back, get by, get in, get into, get off, get on, get on with, get out of, get over, get round, get round to, get through, get up
 western
 over
 burnt
@@ -632,7 +677,6 @@ twenty
 major
 brush
 festival
-drive, drive away, drive off, driving
 tip, tip over
 arrival
 vacation
@@ -690,7 +734,6 @@ lay
 recover
 strain
 teacher
-keep, keep out, keep out of, keep up, keep up with
 performer
 unpleasant
 fridge
@@ -779,7 +822,6 @@ illustrate
 alcoholic
 goods
 loud, loudly
-move, move in, move out, move over, moving
 pink
 effective, effectively
 uncle
@@ -798,7 +840,6 @@ scare, scared, scare off
 customs
 beneath
 i.e.
-shut, shut down, shut in, shut out, shut up
 respect
 aloud
 swear, swearing
@@ -1111,7 +1152,6 @@ target
 background
 coffee
 frame
-live, lively, live on, live through, live together, living
 table
 friend, friendly
 pole
@@ -1152,7 +1192,6 @@ manner
 application
 decorative
 indoors
-break, break down, break in, break into, break off, break out, break up
 cloth, clothing
 sore
 tunnel
@@ -1275,7 +1314,6 @@ degree
 opportunity
 lost
 hell
-set, set off, set out, set up
 proceed
 suitcase
 context
@@ -1325,7 +1363,6 @@ level
 ever
 flow
 team
-pull, pull apart, pull down, pull in, pull off, pull out, pull over, pull through, pull together, pull up
 instruction
 initiative
 lorry
@@ -1476,7 +1513,6 @@ electronic
 entertain, entertaining
 welcome
 necessary
-bring, bring back, bring down, bring forward, bring out, bring up
 entrance
 miss, missing, miss out
 advance, advanced
@@ -1490,7 +1526,6 @@ contain
 their
 important, importantly
 faith
-check, check in, check into, check on, check out, check over, check up on
 reckon, reckon on
 document
 encouragement
@@ -1514,7 +1549,6 @@ topic
 special, specially
 slice
 circumstance
-stick, stick out, stick to, stick up
 what
 work, working, work out
 pop
@@ -1522,7 +1556,6 @@ mathematics
 retain
 millimetre
 mountain
-give, give away, give back, give in, give off, give out, give up
 dirty
 software
 collection
@@ -1560,7 +1593,6 @@ consequence
 towel
 bent
 understand, understanding
-make, make into, make up, make up for
 crucial
 withdraw
 expect, expected
@@ -1676,7 +1708,6 @@ game
 impatient
 whom
 column
-stand, stand back, stand by, stand for, stand out, stand up, stand up for
 each, each other
 wall
 moon
@@ -1703,13 +1734,11 @@ billion
 born
 sixty
 achievement
-cut, cut back, cut down, cut off, cut out, cut up
 circle
 item
 lean
 thorough, thoroughly
 shot
-hang, hang about, hang about with, hang around, hang around with, hang on, hang on to, hang up
 wish
 smile
 remarkably
@@ -1776,7 +1805,6 @@ pair
 too
 colour, coloured
 backwards
-walk, walking, walk out, walk up
 tear, tear up
 majority
 nearby
@@ -1789,7 +1817,6 @@ fourteenth
 share
 deal, deal in, deal with
 find, find out
-read, reading, read out, read over
 stamp
 dump
 loyal
@@ -1910,7 +1937,6 @@ metre
 area
 damage
 bound
-do, do up, do with, do without
 our
 make-up
 concept
@@ -2075,7 +2101,6 @@ unconscious
 time
 enthusiasm
 grandmother
-go, go ahead, go away, go back, go back to, go by, go down, go into, go off, go on, go on doing, go out, go out with, go over, go round, go through, go through with, go to, go up, go with, go without
 bath
 boy
 thank, thank you
@@ -2088,7 +2113,6 @@ exclude, excluding
 Tuesday
 millionth
 problem
-cover, covered, covering, cover up
 hour
 p.m.
 customer
@@ -2154,12 +2178,10 @@ eleven
 separate, separated, separately
 careful, carefully
 individual
-pay, pay back, pay out, pay up
 jealous
 twin
 borrow
 labour
-pass, pass away, pass by, passing, pass on, pass out, pass round, pass through
 scale
 steep, steeply
 sector
@@ -2172,8 +2194,6 @@ four
 future
 cabinet
 shop, shopping
-hand, hand back, hand down, hand in, hand out, hand over, hand round
-run, run after, run away, running, run out, run over, run through
 forest
 informal
 Monday
@@ -2187,7 +2207,6 @@ unfriendly
 rural
 January
 accent
-hear, hear from, hearing, hear of
 attorney
 well, well known
 song
@@ -2341,7 +2360,6 @@ fee
 charge
 worst
 structure
-the, thing, the unemployed, the unexpected
 accident
 argument
 custom
@@ -2387,7 +2405,6 @@ lab
 candy
 kilometre
 general, generally
-turn, turn back, turn down, turn into, turn off, turn on, turn out, turn over, turn round, turn to, turn up
 desperate, desperately
 sit, sit down
 chart
@@ -2398,7 +2415,6 @@ habit
 clerk
 blonde
 solution
-frighten, frightened, frightening, frighten away, frighten off
 address
 combination
 attach, attached
@@ -2489,7 +2505,6 @@ persuade
 clever
 careless, carelessly
 food
-come, come across, come down, come from, come in, come off, come on, come out, come round, come to, come up, come up to
 pronunciation
 sensitive
 economic
@@ -2504,7 +2519,6 @@ everybody
 aware
 moment
 error
-call, call back, called, call for, call off, call up
 experience, experienced
 rely, rely on
 port
@@ -2523,7 +2537,6 @@ thirtieth
 produce
 polite, politely
 substantial, substantially
-clear, clearly, clear out, clear up
 woman
 expose
 painful
@@ -2600,13 +2613,11 @@ unhappy
 happily
 offensive
 grandparent
-skill, skilled, skilful, skilfully
 charity
 continuous, continuously
 improve
 flame
 nail
-think, think about, thinking, think of, think of as, think over, think up
 worker
 scream
 manage
@@ -2616,7 +2627,6 @@ satisfy, satisfying, satisfied
 collect
 hunt, hunting
 court
-die, die away, die out, dying
 perhaps
 Mr
 motorcycle
@@ -2693,7 +2703,6 @@ dancer
 embarrass, embarrassed, embarrassing
 science
 violent, violently
-breathe, breathe in, breathe out, breathing
 payment
 activity
 generous, generously
@@ -2730,7 +2739,6 @@ attend, attend to
 efficient, efficiently
 top
 dish
-take, take away, take back, take down, take in, take off, take on, take over, take up
 request
 taxi
 mess
@@ -2793,7 +2801,6 @@ voice
 publicity
 volume
 busy
-show, show off, show round, show up
 bacteria
 discover
 sir
@@ -2833,7 +2840,6 @@ soon
 angle
 blood
 candidate
-wash, wash away, washing, wash off, wash out, wash up
 king
 wander
 hill
@@ -2844,7 +2850,6 @@ industry
 husband
 never
 destroy
-end, end in, ending, end up
 stay, stay away, stay out of
 machinery
 issue
@@ -2863,7 +2868,6 @@ different, differently
 strike, striking
 translate
 concentration
-tire, tired, tire out, tiring
 hall
 accurate, accurately
 knowledge
@@ -2909,12 +2913,10 @@ phase
 essential, essentially
 explore
 chop, chop down, chop off
-write, write back, write down, writing
 hobby
 breast
 publication
 receipt
-hold, hold back, hold on, hold on to, hold out, hold up
 continue
 sign
 heat, heating, heat up
@@ -2943,7 +2945,6 @@ oppose, opposed, opposing
 dinner
 centre
 surround, surrounding
-see, see about, seed, see to
 juice
 prompt, promptly
 evening
@@ -2990,7 +2991,6 @@ article
 contact
 remember
 cannot
-meet, meeting, meet up, meet with
 easy
 ambulance
 unlucky
