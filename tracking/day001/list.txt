@@ -1,10 +1,10 @@
-sound
-entertainer
-permanent, permanently
-technology
-shy
-horn
-vision
-virtually
+go, go ahead, go away, go back, go back to, go by, go down, go into, go off, go on, go on doing, go out, go out with, go over, go round, go through, go through with, go to, go up, go with, go without
+get, get away, get away with, get back, get by, get in, get into, get off, get on, get on with, get out of, get over, get round, get round to, get through, get up
+look, look after, look at, look down on, look forward to, look into, look on, look on with, look out, look out for, look round, look through, look up, look up to
 put, put away, put back, put down, put forward, put in, put off, put on, put out, put through, put together, put up, put up with
-smooth, smoothly
+come, come across, come down, come from, come in, come off, come on, come out, come round, come to, come up, come up to
+turn, turn back, turn down, turn into, turn off, turn on, turn out, turn over, turn round, turn to, turn up
+pull, pull apart, pull down, pull in, pull off, pull out, pull over, pull through, pull together, pull up
+take, take away, take back, take down, take in, take off, take on, take over, take up
+hang, hang about, hang about with, hang around, hang around with, hang on, hang on to, hang up
+pass, pass away, pass by, passing, pass on, pass out, pass round, pass through
