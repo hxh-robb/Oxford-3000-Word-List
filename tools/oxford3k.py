@@ -4,7 +4,8 @@ import re, urllib, hashlib, subprocess
 import itertools, time
 import grouping
 
-debug = True
+#debug = True
+debug = False
 
 app_root = os.path.dirname(os.path.dirname(__file__))
 
@@ -44,13 +45,13 @@ def reset():
   rmtree(mp3_dirname)
   rmtree(track_dirname)
 
-def shuffle():
+def shuffle(check_size=False):
   o3k = file_path(oxford3k_filename)
   shu = file_path(shuffled_filename)
   if os.path.exists(o3k) and os.path.exists(shu):
     st_oxf3k = os.stat(o3k)
     st_words = os.stat(shu)
-    if st_words.st_size != st_oxf3k.st_size:
+    if check_size and st_words.st_size != st_oxf3k.st_size:
       os.remove(shu)
   if not os.path.exists(shu):
     with open(o3k) as oxf3k:
@@ -87,6 +88,8 @@ def download(text, play_mp3=False):
     elif os.path.exists(mp3_uk):
       os.remove(mp3_uk)
     time.sleep(1.5)
+  elif play_mp3:
+    play(mp3_uk)
   if not os.path.exists(mp3_us):
     us_link = mp3_us_download_link.format(param)
     rt = subprocess.call(['wget', '-O' if debug else '-qO', mp3_us, '-T', '5', us_link])
@@ -95,6 +98,8 @@ def download(text, play_mp3=False):
     elif os.path.exists(mp3_us):
       os.remove(mp3_us)
     time.sleep(1.5)
+  elif play_mp3:
+    play(mp3_us)
 
 def list_tracking():
   track_dir = file_path(track_dirname)
@@ -144,7 +149,7 @@ def pick_words(num=10):
         print(x, file=f)
   play_list(day_dirname,0)
 
-def play_list(day_dirname, interval=5):
+def play_list(day_dirname, interval=5, show_word=True):
   track_dir = file_path(track_dirname)
   if not os.path.exists(track_dir):
     pass
@@ -160,4 +165,5 @@ def play_list(day_dirname, interval=5):
       if not first:
         time.sleep(interval)
       first = False
+      print(word)
       download(word.rstrip('\n'),True)
